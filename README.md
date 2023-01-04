@@ -1,9 +1,8 @@
-## Hi there 👋
+# Hi there 👋
 
 ### :man_technologist: About Me
 Currently studying Computer Science\
 :telescope: Looking to work as a Software Engineer.\
-:seedling: Learning Python.\
 :zap: Have a liking to React.
 
 ### :hammer_and_wrench: Languages and Tools
