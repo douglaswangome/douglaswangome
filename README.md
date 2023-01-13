@@ -20,12 +20,3 @@ Currently studying Computer Science\
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
-
-### :fire: My Stats
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=douglaswangome&theme=dark)](https://git.io/streak-stats) -->
-\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglaswangome&theme=dracula)](https://github.com/douglaswangome/github-readme-stats)
-
-### :coffee: Sips & Thank You
-<a href="https://www.buymeacoffee.com/ishdagnesh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
