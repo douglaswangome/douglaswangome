@@ -2,7 +2,7 @@
   <img width="300" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" />
 </p>
 <h1> 👨‍💻 Profile </h1>
-<h3> Hi there, I'm a full stack developer from Kenya. </h3>
+<h3> Hi there, I'm a full stack developer. </h3>
 <h3> Currently, I am doing (React+Vite).js </h3>
 <h3> I consider myself skilled in Javascript and I'm also a big fan of problems because I like thinking of solutions </h3>
 <h6> Tabs should be 2 spaces wide 👀</h6>
@@ -18,6 +18,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 #### Back-end 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
