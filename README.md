@@ -42,7 +42,7 @@
 
 ## 📈 Stats
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=douglaswangome&show_icons=true&count_private=true&theme=github_dark&bg_color=00000000&border_radius=6px&border_color=30363d" width="90%" />
+<!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=douglaswangome&show_icons=true&count_private=true&theme=github_dark&bg_color=00000000&border_radius=6px&border_color=30363d" width="90%" /> -->
 </a>
 
 <br />
