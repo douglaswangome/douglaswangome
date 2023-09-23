@@ -1,11 +1,11 @@
 <p align="center" width="100%">
   <img width="300" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" />
 </p>
-<h1> 👨‍💻 Profile </h1>
-<h3> Hi there, I'm a full stack developer. </h3>
-<h3> Currently, I am doing (React+Vite).js </h3>
-<h3> I consider myself skilled in Javascript and I'm also a big fan of problems because I like thinking of solutions </h3>
-<h6> Tabs should be 2 spaces wide 👀</h6>
+
+## 👨‍💻 Profile
+<span> Hi there, I'm a full stack developer. </span>
+
+<span> Tabs should be 2 spaces wide 👀</span>
 
 - 👀 I'm interested in building real-world projects
 - 🌱 Looking to add more projects to my portifolio
