@@ -41,13 +41,13 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📈 Stats
-<a href="#">
-<!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=douglaswangome&show_icons=true&count_private=true&theme=github_dark&bg_color=00000000&border_radius=6px&border_color=30363d" width="90%" /> -->
+<!-- <a href="#">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=douglaswangome&show_icons=true&count_private=true&theme=github_dark&bg_color=00000000&border_radius=6px&border_color=30363d" width="50%" />
 </a>
 
-<br />
+<br /> -->
 <br />
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaswangome&count_private=true&theme=github_dark&layout=compact&bg_color=00000000&border_radius=6px&border_color=30363d" width="90%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaswangome&count_private=true&theme=github_dark&layout=compact&bg_color=00000000&border_radius=6px&border_color=30363d" width="50%" />
 </a>
