@@ -49,5 +49,5 @@
 <br />
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaswangome&count_private=true&theme=github_dark&layout=compact&bg_color=00000000&border_radius=6px&border_color=30363d" width="50%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaswangome&count_private=true&theme=github_dark&layout=compact" width="50%" />
 </a>
